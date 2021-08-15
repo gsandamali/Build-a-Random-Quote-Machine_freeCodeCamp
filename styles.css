@@ -1,0 +1,54 @@
+* {
+    font-size: 1rem;
+    margin: 20px;
+    text-align: center;
+}
+ 
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
+
+.quote-text {
+text-align: center;
+width: 450px;
+height: auto;
+clear: both;
+font-weight: 500;
+font-size: 1.75em;
+}
+.quote-author {
+width: 450px;
+height: auto;
+clear: both;
+padding-top: 20px;
+font-size: 1em;
+text-align: right;
+}
+.fa-twitter{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+.btn1 {
+    background: rgb(32, 32, 32);
+    
+    border: none;
+    color: white;
+    padding: 0px 0px;
+    font-size: 25px;
+    cursor: pointer;
+    
+    margin-left: 2px;
+    
+  }
+
+  
+  #buttons{
+      display: flex;
+      justify-content:space-between;
+      
+  }
